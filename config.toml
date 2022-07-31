@@ -1,0 +1,4 @@
+baseURL = 'https://bekabaz.github.io/'
+languageCode = 'en-us'
+title = 'Unbreaking tech for over a decade'
+theme = "hugo-vitae"
